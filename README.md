@@ -1,6 +1,6 @@
 ### Hi there, I'm Aayush - aka [codeninja][website] 👋
 
-## I'm a Student, Developer, and Teacher!!
+## I'm a DevOps Engineer and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to develop myself.
